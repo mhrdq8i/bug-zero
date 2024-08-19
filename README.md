@@ -4,137 +4,137 @@ A repository of all programming languages "bug-free" sample code.
 
 ## Languages
 
-We wrote a sample of "bug-free" code, in all programming languages.
+We wrote a sample of "bug-free" code in all programming languages.
 
 ### Alphabetical Sort
 
 #### A
 
-- .a (Assembly)
-- .abap (ABAP)
-- .ada (Ada)
-- .apl (APL)
-- .asm (Assembly Language)
-- .awk (AWK)
-- .actionscript (ActionScript)
-- .agda (Agda)
+- [Assembly](./Assembly.a)
+- [ABAP](./ABAP.abap)
+- [Ada](./Ada.ada)
+- [APL](./APL.apl)
+- [Assembly Language](./AssemblyLanguage.asm)
+- [AWK](./AWK.awk)
+- [ActionScript](./ActionScript.actionscript)
+- [Agda](./Agda.agda)
 
 #### B
 
-- .b (B)
-- .bash (Bash)
-- .bc (Bourne shell script)
-- .bzl (Bazel)
+- [B](./B.b)
+- [Bash](./Bash.bash)
+- [Bourne shell script](./BourneShellScript.bc)
+- [Bazel](./Bazel.bzl)
 
 #### C
 
-- .c (C)
-- .cpp (C++)
-- .cs (C#)
-- .cob (COBOL)
-- .clj (Clojure)
-- .coffee (CoffeeScript)
+- [C](./C.c)
+- [C++](./C++.cpp)
+- [C#](./C#.cs)
+- [COBOL](./COBOL.cob)
+- [Clojure](./Clojure.clj)
+- [CoffeeScript](./CoffeeScript.coffee)
 
 #### D
 
-- .d (D)
-- .dart (Dart)
+- [D](./D.d)
+- [Dart](./Dart.dart)
 
 #### E
 
-- .el (Emacs Lisp)
-- .erl (Erlang)
+- [Emacs Lisp](./EmacsLisp.el)
+- [Erlang](./Erlang.erl)
 
 #### F
 
-- .f (Fortran)
-- .fs (F#)
+- [Fortran](./Fortran.f)
+- [F#](./F#.fs)
 
 #### G
 
-- .go (Go)
-- .groovy (Groovy)
+- [Go](./Go.go)
+- [Groovy](./Groovy.groovy)
 
 #### H
 
-- .h (C Header)
-- .hs (Haskell)
+- [C Header](./Cheader.h)
+- [Haskell](./Haskell.hs)
 
 #### J
 
-- .java (Java)
-- .js (JavaScript)
-- .jl (Julia)
+- [Java](./Java.java)
+- [JavaScript](./JavaScript.js)
+- [Julia](./Julia.jl)
 
 #### K
 
-- .k (K)
-- .kt (Kotlin)
+- [K](./K.k)
+- [Kotlin](./Kotlin.kt)
 
 #### L
 
-- .l (Lex)
-- .lua (Lua)
-- .lisp (Lisp)
+- [Lex](./Lex.l)
+- [Lua](./Lua.lua)
+- [Lisp](./Lisp.lisp)
 
 #### M
 
-- .m (MATLAB)
-- .ml (ML)
-- .mql (MQL)
+- [MATLAB](./MATLAB.m)
+- [ML](./ML.ml)
+- [MQL](./MQL.mql)
 
 #### N
 
-- .ncl (NCL)
-- .nim (Nim)
+- [NCL](./NCL.ncl)
+- [Nim](./Nim.nim)
 
 #### O
 
-- .objc (Objective-C)
-- .oz (Oz)
+- [Objective-C](./Objective-C.objc)
+- [Oz](./Oz.oz)
 
 #### P
 
-- .pas (Pascal)
-- .perl (Perl)
-- .php (PHP)
-- .pl (Perl)
-- .py (Python)
+- [Pascal](./Pascal.pas)
+- [Perl](./Perl.perl)
+- [PHP](./PHP.php)
+- [Perl](./Perl.pl)
+- [Python](./Python.py)
 
 #### R
 
-- .r (R)
-- .rb (Ruby)
-- .rs (Rust)
-- .raku (Raku)
+- [R](./R.r)
+- [Ruby](./Ruby.rb)
+- [Rust](./Rust.rs)
+- [Raku](./Raku.raku)
 
 #### S
 
-- .scala (Scala)
-- .scm (Scheme)
-- .sh (Shell Script)
-- .sql (SQL)
-- .swift (Swift)
+- [Scala](./Scala.scala)
+- [Scheme](./Scheme.scm)
+- [Shell Script](./ShellScript.sh)
+- [SQL](./SQL.sql)
+- [Swift](./Swift.swift)
 
 #### T
 
-- .ts (TypeScript)
-- .tcl (Tcl)
+- [TypeScript](./TypeScript.ts)
+- [Tcl](./Tcl.tcl)
 
 #### V
 
-- .v (V)
-- .vala (Vala)
+- [V](./V.v)
+- [Vala](./Vala.vala)
 
 #### W
 
-- .wat (WebAssembly Text Format)
+- [WebAssembly Text Format](./WebAssemblyTextFormat.wat)
 
 #### X
 
-- .xml (XML)
-- .xsl (XSLT)
+- [XML](./XML.xml)
+- [XSLT](./XSLT.xsl)
 
 #### Z
 
-- .z (Zig)
+- [Zig](./Z.z)
